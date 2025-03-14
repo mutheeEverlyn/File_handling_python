@@ -1,0 +1,6 @@
+Hello there today we are learning all about file handling.We will learn how to open and close a file.There are few ways we can manipulate our files with :
+   1.read a file (r)
+   2.appending to a file(a)
+   3.writing to a file(w)
+   4.reading and writing to a file(r+)
+   5.reading binary(rb)
