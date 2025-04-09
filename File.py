@@ -1,4 +1,4 @@
-# File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
+#a program that reads a file and writes a modified version to a new file.
 
 def read_and_modify_file(input_file, output_file):
     try:
