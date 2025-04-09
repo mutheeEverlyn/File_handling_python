@@ -1,5 +1,3 @@
-# Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
-
 def error_handling():
     try:
         # Ask user for filename
